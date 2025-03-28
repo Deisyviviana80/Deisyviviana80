@@ -1,3 +1,5 @@
+![Beige Minimalist Personal Business LinkedIn Banner](https://github.com/user-attachments/assets/e4c488b8-8392-44da-87d8-2e19f4a90d57)
+
 ## Hola!!! 👋
 
 Soy **Deisy Viviana**, apasionada por el análisis de datos y la programación. En mi GitHub encontrarás proyectos que reflejan mi curiosidad por aprender y mi dedicación por resolver problemas con datos y tecnología. 🌟
