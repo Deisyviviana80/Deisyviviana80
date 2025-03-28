@@ -14,6 +14,17 @@ Soy **Deisy Viviana**, apasionada por el análisis de datos y la programación. 
 
 ### Lenguages y herramientas:
 
-![Android](https://img.shields.io/badge/any_text-you_like-blue)
+![Android](https://img.shields.io/badge/Lenguage-Pandas-blue)
+![Android](https://img.shields.io/badge/Lenguage-SQL-blue)
+![Android](https://img.shields.io/badge/Herramientas-Pandas-green)
+![Android](https://img.shields.io/badge/Herramientas-Matplotlib_Seaborn-green)
+![Android](https://img.shields.io/badge/Herramientas-Plotly/Plotly_Express-green)
+![Android](https://img.shields.io/badge/Herramientas-Streamlit-green)
+![Android](https://img.shields.io/badge/Herramientas-Jupyter_Notebook-green)
+![Android](https://img.shields.io/badge/Herramientas-GitHub-green)
+![Android](https://img.shields.io/badge/Herramientas-Excel_Word_PowerPoint-green)
+![Android](https://img.shields.io/badge/Herramientas-VSCode-green)
+![Android](https://img.shields.io/badge/Herramientas-Tableau-green)
+
 
 ¡Gracias por visitar mi perfil! 😄
