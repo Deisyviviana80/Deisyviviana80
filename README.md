@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hola!!! 👋
 
-<!--
-**Deisyviviana80/Deisyviviana80** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy **Deisy Viviana**, apasionada por el análisis de datos y la programación. En mi GitHub encontrarás proyectos que reflejan mi curiosidad por aprender y mi dedicación por resolver problemas con datos y tecnología. 🌟
 
-Here are some ideas to get you started:
+### Sobre mí:
+- 🌱 Actualmente estoy aprendiendo: **Python, SQL, Tableau y desarrollo web**.
+- 🚀 Trabajando en: **Proyectos de análisis de datos y aplicaciones web**.
+- 🤝 Buscando colaborar en: **Análisis de datos, visualización y desarrollo de herramientas interactivas**.
+- 💡 Me puedes preguntar sobre: **Python, manejo de datos y herramientas de visualización**.
+- 📫 Cómo contactarme: **deisyviviana80@gmail.com | www.linkedin.com/in/deisy-hurtado**.
+- ⚡ Dato curioso: ¡Soy experta en resolver problemas complejos con creatividad y estructura!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+¡Gracias por visitar mi perfil! 😄
