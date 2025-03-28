@@ -12,4 +12,8 @@ Soy **Deisy Viviana**, apasionada por el análisis de datos y la programación. 
 - 📫 Cómo contactarme: **deisyviviana80@gmail.com | www.linkedin.com/in/deisy-hurtado**.
 - ⚡ Dato curioso: ¡Soy experta en resolver problemas complejos con creatividad y estructura!
 
+### Lenguages y herramientas:
+
+https://img.shields.io/badge/any_text-you_like-blue
+
 ¡Gracias por visitar mi perfil! 😄
