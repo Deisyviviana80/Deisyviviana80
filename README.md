@@ -1,4 +1,5 @@
 ![Beige Minimalist Personal Business LinkedIn Banner](https://github.com/user-attachments/assets/e4c488b8-8392-44da-87d8-2e19f4a90d57)
+![istockphoto-1427555972-2048x2048](https://github.com/user-attachments/assets/76409e00-4571-4bc1-a549-3f47b7c1774f)
 
 ## Hola!!! 👋
 
