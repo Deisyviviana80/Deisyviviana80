@@ -9,12 +9,12 @@ Soy **Deisy Viviana**, apasionada por el análisis de datos y la programación. 
 - 🚀 Trabajando en: **Proyectos de análisis de datos y aplicaciones web**.
 - 🤝 Buscando colaborar en: **Análisis de datos, visualización y desarrollo de herramientas interactivas**.
 - 💡 Me puedes preguntar sobre: **Python, manejo de datos y herramientas de visualización**.
-- 📫 Cómo contactarme: **deisyviviana80@gmail.com | www.linkedin.com/in/deisy-hurtado**.
+- 📫 Cómo contactarme: **deisyviviana80@gmail.com | www.linkedin.com/in/deisyhurtado-analistadedatos**.
 - ⚡ Dato curioso: ¡Soy experta en resolver problemas complejos con creatividad y estructura!
 
 ### Lenguages y herramientas:
 
-![Android](https://img.shields.io/badge/Lenguage-Pandas-blue)
+![Android](https://img.shields.io/badge/Lenguage-Python-blue)
 ![Android](https://img.shields.io/badge/Lenguage-SQL-blue)
 ![Android](https://img.shields.io/badge/Herramientas-Pandas-green)
 ![Android](https://img.shields.io/badge/Herramientas-Matplotlib_Seaborn-green)
