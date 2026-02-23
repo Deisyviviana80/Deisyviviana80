@@ -44,6 +44,9 @@ Identificación de underperformance mediante KPIs operativos.
 🏋️ **Segmentación y Predicción de Cancelación (Gimnasio)**  
 Modelos de clasificación y clustering para detectar perfiles de riesgo.
 
+🌍 **Visualización Interactiva con Plotly - Gapminder**  
+Ejercicio de aprendizaje: gráficos animados e interactivos sobre datos globales de salud y economía (1952–2007).
+
 🎵 **Análisis de Preferencias Musicales**  
 EDA comparativo por ciudad y día de la semana.
 
