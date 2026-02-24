@@ -55,8 +55,8 @@ EDA comparativo por ciudad y día de la semana.
 ## 🛠 Lenguajes y Herramientas
 
 ### 🧑‍💻 Lenguajes
-![Python](https://img.shields.io/badge/Python-Avanzado-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-Avanzado-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
@@ -81,7 +81,6 @@ EDA comparativo por ciudad y día de la semana.
 ![GitHub](https://img.shields.io/badge/GitHub-Version_Control-181717?style=for-the-badge&logo=github)
 ![VSCode](https://img.shields.io/badge/VS_Code-Editor-007ACC?style=for-the-badge&logo=visualstudiocode)
 ![Tableau](https://img.shields.io/badge/Tableau-DataViz-E97627?style=for-the-badge&logo=tableau)
-![Streamlit](https://img.shields.io/badge/Streamlit-Apps-FF4B4B?style=for-the-badge&logo=streamlit)
 
 ---
 
