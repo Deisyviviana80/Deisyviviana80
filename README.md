@@ -1,4 +1,4 @@
-![istockphoto-1427555972-2048x2048](https://github.com/user-attachments/assets/76409e00-4571-4bc1-a549-3f47b7c1774f)
+<img width="1166" height="160" alt="image" src="https://github.com/user-attachments/assets/fe066977-d216-4d57-a449-0840d20e69bd" />
 
 ## Hola, soy Deisy Hurtado 👋
 
